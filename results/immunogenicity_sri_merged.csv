@@ -1,0 +1,84 @@
+Patient,Figure order,Gene,Clonality,Response category,Pre-positive,Post-positive,De novo post-only,Source,Note,post_positive,responder,gene,SRI
+6,1,MTERF4,Subclonal-private,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,,
+6,2,RNF217,Subclonal-private,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,RNF217,0.048
+6,3,DPP8,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,DPP8,0.333
+6,4,DPY19L2,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,DPY19L2,0.0
+6,5,NOTCH1,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,NOTCH1,0.143
+6,6,SLC23A2,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,,
+6,7,SUPV3L1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,SUPV3L1,0.095
+6,8,FAT1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,FAT1,0.048
+6,9,IGSF11,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,,
+6,10,AHI1,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,AHI1,0.381
+6,11,CALM3,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,CALM3,0.684
+6,12,CDCP1,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,CDCP1,0.0
+6,13,CHD7,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,CHD7,0.381
+6,14,KCTD8,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,KCTD8,0.0
+6,15,NPHP3,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,NPHP3,0.095
+6,16,PIK3R1,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,,
+6,17,SORL1,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,SORL1,0.158
+7,1,INTS2,Subclonal-private,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,INTS2,0.048
+7,2,EGFR,Subclonal-shared,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,EGFR,0.333
+7,3,KCNA4,Subclonal-shared,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,KCNA4,0.0
+7,4,BTBD8,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,BTBD8,0.0
+7,5,PIK3CB,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,PIK3CB,0.105
+7,6,TOLLIP,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,TOLLIP,0.524
+7,7,CLEC19A,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,CLEC19A,0.0
+7,8,PTPRA,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,PTPRA,0.476
+7,9,FSHR,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,,
+7,10,ANTXR2,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,ANTXR2,0.143
+7,11,RAD1,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,RAD1,0.381
+7,12,B4GAT1,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,,
+7,13,BSG,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,BSG,0.789
+7,14,SLC4A11,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,SLC4A11,0.0
+7,15,PLXNA2,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,PLXNA2,0.0
+7,16,MYO7B,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,MYO7B,0.0
+7,17,NPNT,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,NPNT,0.0
+7,18,P4HA2,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,P4HA2,0.0
+7,19,CAP2,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,CAP2,0.0
+7,20,CNTNAP2,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,CNTNAP2,0.0
+7,21,TECTA,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,TECTA,0.0
+7,22,TMEM52B,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,TMEM52B,0.0
+7,23,PCSK6,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,PCSK6,0.0
+7,24,SHPK,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,SHPK,0.0
+7,25,SRCIN1,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,SRCIN1,0.0
+7,26,ST6GALNAC1,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,ST6GALNAC1,0.0
+7,27,KLHL22,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,KLHL22,0.048
+7,28,MYH9,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,MYH9,0.105
+8,1,SLC39A5,Subclonal-private,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,SLC39A5,0.0
+8,2,CBL,Subclonal-private,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,CBL,0.105
+8,3,BOD1L1,Subclonal-private,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,BOD1L1,0.381
+8,4,LZTS2,Subclonal-private,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,LZTS2,0.095
+8,5,DBNL,Subclonal-private,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,DBNL,0.714
+8,6,TMEM38A,Subclonal-private,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,TMEM38A,0.048
+8,7,ZNF224,Subclonal-private,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,ZNF224,0.19
+8,8,LSS,Subclonal-shared,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,LSS,0.048
+8,9,FARP1,Subclonal-shared,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,FARP1,0.381
+8,10,TLN1,Subclonal-shared,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,TLN1,0.368
+8,11,ZC3HC1,Subclonal-shared,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,ZC3HC1,0.143
+8,12,ANOS1,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,,
+8,13,CHMP7,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,CHMP7,0.333
+8,14,NRG1,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,NRG1,0.0
+8,15,COG6,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,COG6,0.143
+8,16,CYSLTR2,Clonal,Positive pre only,True,False,False,Extended Data Fig. 4B,,False,False,CYSLTR2,0.0
+8,17,STPG1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,STPG1,0.0
+8,18,LAMB3,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,LAMB3,0.0
+8,19,HOMER1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,HOMER1,0.143
+8,20,ANKHD1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,ANKHD1,0.143
+8,21,ANKS6,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,ANKS6,0.048
+8,22,PRC1,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,PRC1,0.143
+8,23,ABCC11,Clonal,Positive post only,False,True,True,Extended Data Fig. 4B,,True,True,ABCC11,0.0
+8,24,WDR45,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,WDR45,0.421
+8,25,MTCH1,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,MTCH1,0.714
+8,26,FBLN5,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,FBLN5,0.0
+8,27,EPB41L3,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,Two EPB41L3 candidates are plotted for patient 8; the figure does not identify which mutation corresponds to which response category.,True,True,EPB41L3,0.0
+8,28,ARID3A,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,ARID3A,0.263
+8,29,FCGBP,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,FCGBP,0.158
+8,30,CLEC11A,Clonal,Positive pre- and post,True,True,False,Extended Data Fig. 4B,,True,True,CLEC11A,0.316
+8,31,ZNF408,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,ZNF408,0.048
+8,32,DENND6B,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,DENND6B,0.048
+8,33,EPB41L3,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,Two EPB41L3 candidates are plotted for patient 8; the figure does not identify which mutation corresponds to which response category.,False,False,EPB41L3,0.0
+8,34,CAND1,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,CAND1,0.381
+8,35,TUBA8,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,TUBA8,0.0
+8,36,DDX3X,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,DDX3X,0.714
+8,37,SYTL4,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,SYTL4,0.0
+8,38,SOCS5,Clonal,Negative pre and post,False,False,False,Extended Data Fig. 4B,,False,False,SOCS5,0.095
