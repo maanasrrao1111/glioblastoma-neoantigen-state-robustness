@@ -35,6 +35,17 @@ Raw scRNA-seq data (too large for GitHub) can be downloaded from GEO:
 
 Analyses were conducted interactively on JHU Rockfish HPC. Standalone reproducible scripts are being reconstructed and will be added.
 
-## Author
+## Authors
 
-Maanas Rao — MS Biotechnology, Johns Hopkins University
+**Aisiri Veerabhadrappa** — Johns Hopkins University
+*Project lead — conception, study design, and analysis*
+
+**Maanas Rao** — MS Biotechnology, Johns Hopkins University
+*Study design, computational execution, and analysis*
+
+Both authors contributed to this work jointly.
+
+## Advisor
+
+**Dr. Luigi Adamo** — Johns Hopkins University
+*Faculty advisor — project supervision*
